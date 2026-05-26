@@ -1,0 +1,49 @@
+@Addie ~ (master)
+$ cd downloads
+
+@Addie ~/downloads (master)
+$ cd house
+
+@Addie ~/downloads/house (master)
+$ ls -a
+./  ../  .DS_Store  bathroom/  bedroom/  dining-room/  kitchen/  living-room/
+
+@Addie ~/downloads/house (master)
+$ cd kitchen
+
+@Addie ~/downloads/house/kitchen (master)
+$ cd fridge
+
+@Addie ~/downloads/house/kitchen/fridge (master)
+$ cat items.txt
+🥓 Bacon
+🥚 Eggs
+🧀 Cheese
+🥒 Cuke
+🍰 Peanut Butter Chocolate Cake
+🧃 Kool-Aid
+🍇 Jelly
+
+@Addie ~/downloads/house/kitchen/fridge (master)
+$ cd ..
+
+@Addie ~/downloads/house/kitchen (master)
+$ cd pantry
+
+@Addie ~/downloads/house/kitchen/pantry (master)
+$ cat items.txt
+🍞 Bread
+🍩 Donuts
+🍪 Cookies
+🥨 Pretzels
+🥜 Peanut Butter
+🍿 Popcorn
+🍯 Honey
+🧅 Onions
+
+
+@Addie ~/downloads/house/kitchen/pantry (master)
+$ cd ../..
+
+@Addie ~/downloads/house (master)
+$
