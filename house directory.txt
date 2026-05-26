@@ -1,0 +1,18 @@
+house/
+  ├── bathroom/
+  │     └── medicine-cabinet/
+  │           └── items.txt
+  |── bedroom/
+  │     └── closet/
+  │           └── items.txt
+  ├── dining-room/
+  │     └── cabinet/
+  |           └── items.txt
+  ├── kitchen/
+  │     ├── fridge/
+  │     │     └── items.txt
+  │     └── pantry/
+  │           └── items.txt
+  └── living-room/
+        └── shelf/
+              └── books.txt
