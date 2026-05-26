@@ -1,0 +1,4 @@
+touch rice-dishes.txt
+rm indian/fried-rice.txt
+mv indian/ indian-food/
+mv rice-dishes.txt indian-food/
