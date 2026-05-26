@@ -1,0 +1,37 @@
+@Addie ~/downloads (master)
+$ mkdir music-library
+cd music-library
+
+touch world.txt
+touch april-shower.txt
+touch let-me-hear-you-say.txt
+
+mkdir pop
+mkdir synthpop
+mkdir future-bass
+
+mkdir svt
+
+echo "_World - https://www.youtube.com/watch?v=2H5uWRjFsGc" > world.txt
+echo "April Shower - https://www.youtube.com/watch?v=r4l9bFqgMaQ" > april-shower.txt
+echo "Let Me Hear You Say - https://www.youtube.com/watch?v=9bZkp7q19f0" > let-me-hear-you-say.txt
+
+mv world.txt pop/
+mv april-shower.txt synthpop/
+mv let-me-hear-you-say.txt future-bass/
+
+cp pop/april-shower.txt svt/
+
+ls -R
+.:
+svt/  pop/  synthpop/  future-bass/
+
+./svt:
+april-shower.txt
+
+./pop:
+world.txt
+
+@Addie ~/downloads/music-library (master)
+$ ls -a
+./  ../  svt/  pop/  synthpop/  future-bass/
