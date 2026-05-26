@@ -1,0 +1,14 @@
+@Addie ~/downloads/house (master)
+$ cd living-room/shelf/
+
+@Addie ~/downloads/house/living-room/shelf (master)
+$ cat books.txt
+📕 The Hobbit
+📗 Ripley's Believe It or Not!
+📘 A Wrinkle in Time
+
+@Addie ~/downloads/house/living-room/shelf (master)
+$ cd ../..
+
+@Addie ~/downloads/house (master)
+$ clear
