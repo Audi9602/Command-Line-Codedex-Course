@@ -12,9 +12,9 @@ mkdir future-bass
 
 mkdir svt
 
-echo "_World - https://www.youtube.com/watch?v=2H5uWRjFsGc" > world.txt
-echo "April Shower - https://www.youtube.com/watch?v=r4l9bFqgMaQ" > april-shower.txt
-echo "Let Me Hear You Say - https://www.youtube.com/watch?v=9bZkp7q19f0" > let-me-hear-you-say.txt
+echo "_World - https://youtu.be/n2JNQ3m0EUs?si=259GKM2X0XWhUDOK" > world.txt
+echo "April Shower - https://youtu.be/AIyzEeoNay0?si=q0OS4wK9cxVYr7P6" > april-shower.txt
+echo "Let Me Hear You Say - https://youtu.be/ACOu79ngh1Q?si=BxK0CKpRpb4ER5sM" > let-me-hear-you-say.txt
 
 mv world.txt pop/
 mv april-shower.txt synthpop/
