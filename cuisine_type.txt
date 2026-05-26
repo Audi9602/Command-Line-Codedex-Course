@@ -1,0 +1,31 @@
+@Addie ~/downloads (master)
+$ mkdir recipe
+
+@Addie ~/downloads (master)
+$ cd recipe
+
+@Addie ~/downloads/recipe (master)
+$ mkdir indian
+
+@Addie ~/downloads/recipe (master)
+$ cd indian
+
+@Addie ~/downloads/recipe/indian (master)
+$ touch fried-rice.txt
+
+@Addie ~/downloads/recipe/indian (master)
+$ echo "3 cups cooked, chilled white rice (jasmine or basmati work best)3 large eggs, lightly beaten1 cup mixed v
+egetables (diced carrots, peas, and sweet corn)3-4 tablespoons neutral cooking oil (canola, vegetable, or pea
+nut)2 tablespoons soy sauce1 tablespoon sesame oil3 cloves garlic, minced 1/2 cup green onions (scallions), ch
+opped" > fried-rice.txt
+
+@Addie ~/downloads/recipe/indian (master)
+$ cat fried-rice.txt
+3 cups cooked, chilled white rice (jasmine or basmati work best)
+3 large eggs, lightly beaten
+1 cup mixed vegetables (diced carrots, peas, and sweet corn)
+3-4 tablespoons neutral cooking oil (canola, vegetable, or peanut)
+2 tablespoons soy sauce
+1 tablespoon sesame oil
+3 cloves garlic, minced
+1/2 cup green onions (scallions), chopped
