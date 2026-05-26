@@ -1,0 +1,28 @@
+@Addie ~/downloads/recipe/indian (master)
+$ echo "Instructions:" >> fried-rice.txt
+echo "1. Prep your ingredients" >> fried-rice.txt
+echo "2. Scramble the eggs" >> fried-rice.txt
+echo "3. Saute the veggies" >> fried-rice.txt
+
+@Addie ~/downloads/recipe/indian (master)
+$ echo "4. Fry the rice" >> fried-rice.txt
+
+@Addie ~/downloads/recipe/indian (master)
+$ echo "5. Season & Combine" >> fried-rice.txt
+
+@Addie ~/downloads/recipe/indian (master)
+$ cat fried-rice.txt
+3 cups cooked, chilled white rice (jasmine or basmati work best)
+3 large eggs, lightly beaten
+1 cup mixed vegetables (diced carrots, peas, and sweet corn)
+3-4 tablespoons neutral cooking oil (canola, vegetable, or peanut)
+2 tablespoons soy sauce
+1 tablespoon sesame oil
+3 cloves garlic, minced
+1/2 cup green onions (scallions), chopped
+Instructions:
+1. Prep your ingredients
+2. Scramble the eggs
+3. Saute the veggies
+4. Fry the rice
+5. Season & Combine
